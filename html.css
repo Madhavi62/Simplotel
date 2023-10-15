@@ -31,6 +31,7 @@ header a {
    
 }
 
+
 header img {
     height: 30px;
 }
@@ -57,6 +58,7 @@ header img {
     width: 410px;
     margin: 150px;
     color: white;
+    text-overflow: hidden;
 }
 
 
@@ -143,6 +145,7 @@ header img {
     .text-overlay {
         padding: 30px;
         width: 50%;
+         text-overflow: hidden;
     }
     .card {
         background-color: #ffffff;
@@ -161,6 +164,7 @@ header img {
 
         padding: 10px 2%;
     }
+    
 
     .text-overlay {
         background-color: rgba(222, 84, 84, 0.6);
@@ -169,6 +173,7 @@ header img {
         width: 330px;
         margin: 150px ;
         color: white;
+      overflow: hidden;
     }
     .background-image {
         background-image: url('img1.jpg');
@@ -214,6 +219,7 @@ header img {
         width:12px;
         padding-left: 20px;
         padding-right: 20px;
+        text-overflow: hidden;
     }
 
     .btn {
